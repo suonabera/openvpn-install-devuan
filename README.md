@@ -1,3 +1,13 @@
+### OpenVPN Installer for Devuan
+
+This version of angristan's OpenVPN installer script has been adapted to Devuan for OpenRC and SysVinit ONLY. Runit is NOT supported as of now.
+
+Licensed under the MIT license.
+
+The original readme that follows is kept for reference purposes.
+
+#
+
 # openvpn-install
 
 ![Test](https://github.com/angristan/openvpn-install/workflows/Test/badge.svg)
