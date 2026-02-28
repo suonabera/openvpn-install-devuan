@@ -1,3 +1,7 @@
+# I migrated to Wireguard on my systems, therefore this is not maintained anymore. Sorry.
+
+#
+
 ### OpenVPN Installer for Devuan
 
 This version of angristan's OpenVPN installer script has been adapted to Devuan for OpenRC and SysVinit ONLY. Runit is NOT supported as of now.
